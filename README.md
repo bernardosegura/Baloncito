@@ -16,5 +16,5 @@ Se puede jugar en **navegador web**, pero es mejor la experiencia desde un **cel
 <img src="https://github.com/bernardosegura/Baloncito/blob/master/img/n1.png?raw=true" width="300px" height="450px" />
 
 # Conclusión
-Explorando las capacidades que nos ofrece HTML5 y la librería Pharse  hemos visto cómo crear un videojuego con Javascript en poco tiempo  y si utilizamos alguna otra tecnología las posibilidades son más grandes, en este caso se utilizó **cordova** para la generación de la aplicación **Android**. 
+Explorando las capacidades que nos ofrece HTML5 y la librería Pharse  hemos visto cómo crear un videojuego con Javascript en poco tiempo  y si utilizamos alguna otra tecnología las posibilidades son más grandes, en este caso se utilizó **Cordova** para la generación de la aplicación **Android**. 
 La librería tiene muchos ejemplos y una gran comunidad para explorar y desarrollar muchos juegos con diferentes temáticas. La línea de aprendizaje es corta, y por lo tanto recomendable.
